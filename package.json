@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "tsc && cd ./dist && node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
